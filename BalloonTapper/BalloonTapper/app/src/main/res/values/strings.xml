@@ -1,0 +1,9 @@
+<resources>
+    <string name="welcome">Welcome to Balloonpop!</string>
+    <string name="app_name">Balloonpop</string>
+    <string name="BalloonsApp">Balloonpop</string>
+    <string name="game_act">Balloonpop (in game)</string>
+    <string name="score_act">Top 10 scores</string>
+    <string name="start">Start game</string>
+    <string name="highscores">View high scores</string>
+</resources>
