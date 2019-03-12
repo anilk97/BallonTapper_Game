@@ -1,1 +1,2 @@
-# BallonTapper_Game
+# BallonTapper_Game APP
+#developed under android studio
